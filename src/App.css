@@ -87,6 +87,7 @@
       font-size: 1800px;
       text-shadow: 0 0 32px white;
       color: transparent;
+      line-height: 1000px;
       font-family: cursive;
       -webkit-text-stroke: 5px rgba(0, 0, 0, 0.486);
       animation: shake 6s;
