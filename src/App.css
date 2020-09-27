@@ -4,7 +4,8 @@
   flex-direction: column;
   justify-content: center;
   color: white;
-  font-size: 50px;
+  font-size: 40px;
+  text-align: center;
 }
 
 .upper-div {
@@ -14,18 +15,18 @@
 .input-box-container {
   width: 100%;
   display: flex;
-  line-height: 50px;
+  line-height: 30px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
   font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-text-stroke: none;
 }
 
 .input-box {
   width: 600px;
-  height: 80px;
+  height: 70px;
   font-size: 50px;
   text-align: center;
   border: 1px solid rgba(0, 0, 0, 0.648);

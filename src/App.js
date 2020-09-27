@@ -42,7 +42,7 @@ class App extends Component {
         < UpperDiv />
         <div className="input-box-container">
           <form onSubmit={this.handleSubmit}>
-                <p>Insert your text here:</p>
+                <p>Insert something here:</p>
                 <input type="text" className="input-box" name="inputValue" onChange={this.handleInputChange} />
           </form>
         </div>
